@@ -1,0 +1,116 @@
+/* HEADER */
+HTML,
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.5cm;
+}
+
+.general {
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    background-color: black;
+}
+
+.season1 {
+    color: rgb(240, 77, 77);
+    margin-top: 3.5cm;
+    font-size: 35px;
+}
+
+.project-name {
+    color: white;
+    margin: 0%;
+    font-size: 65px;
+}
+
+.education-project {
+    color: white;
+    margin-top: 1px;
+    font-size: 35px;
+}
+
+.text1,
+.text2 {
+    font-weight: 400;
+    color: white;
+}
+
+.icon1-text,
+.icon2-text,
+.icon3-text {
+    margin-top: 1cm;
+    text-align: center;
+}
+
+.text-about-project {
+    margin-left: 5.5cm;
+    margin-right: 5.5cm;
+}
+
+.button {
+    background-color: rgb(240, 77, 77);
+    color: white;
+    padding: 19px 60px;
+    margin-top: 0.5cm;
+}
+
+.video {
+    margin-top: 3cm;
+}
+
+/* ABOUT-PROJECT */
+
+.about-project {
+    padding: 52px 0px 72px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+ .season2 {
+    color: rgb(240, 77, 77);
+}
+
+.icon-image,
+.about-we {
+    width: 1170px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon-items {
+    width: 85%;
+}
+
+.icon1,
+.icon2,
+.icon3 {
+    height: 3cm;
+    width: 3cm;
+}
+
+.about-moc {
+    padding: 28px 0px 42px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.we-logo-academy {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    color: #1B1D1F;
+    margin: 12px 0 32px 0;
+}
+
+.we-logo-academy-links {
+    text-align: center;
+}
+
+.we-logo-moc {
+    margin-top: 100px;
+}
